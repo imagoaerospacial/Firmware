@@ -48,7 +48,7 @@ int PX4_MAIN(int argc, char **argv)
 {
 	px4::init(argc, argv, "hello");
 
-	printf("hello\n");
+        printf("hello Luis\n");
 	HelloExample hello;
 	hello.main();
 
